@@ -1,0 +1,15 @@
+
+<div class='navbar navbar-default'>
+    <div class='container'>
+            {{#link-to 'index' class='navbar-brand'}}Zeds Weight Application{{/link-to}}
+
+        <ul class='nav navbar-nav navbar-right'>
+            {{#link-to 'index' tagName='li'}}Home{{/link-to}}
+            {{#link-to 'about' tagName='li'}}About{{/link-to}}
+            {{#link-to 'weights' tagName='li'}}Weights List{{/link-to}}
+        </ul>
+    </div>
+</div>
+<div class="container">
+    {{outlet}}
+</div>
