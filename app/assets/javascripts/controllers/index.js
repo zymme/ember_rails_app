@@ -2,9 +2,9 @@
  * Created by zimmerd on 7/23/14.
  */
 
-App.IndexController = Ember.Controller.extend( {
+App.IndexController = Ember.ArrayController.extend( {
 
-    productsCount: 6,
+//    productsCount: Ember.computed.alias('length'),
     time: function() {
         return (new Date()).toDateString()
     }.property()

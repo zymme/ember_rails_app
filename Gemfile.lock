@@ -39,6 +39,7 @@ GEM
       ember-source
       execjs
       handlebars-source
+    bcrypt (3.1.7-java)
     builder (3.2.2)
     coffee-rails (4.0.1)
       coffee-script (>= 2.2.0)
@@ -47,6 +48,12 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.7.1)
+    devise (3.2.4)
+      bcrypt (~> 3.0)
+      orm_adapter (~> 0.1)
+      railties (>= 3.2.6, < 5)
+      thread_safe (~> 0.1)
+      warden (~> 1.2.3)
     ember-data-source (1.0.0.beta.7)
       ember-source
     ember-rails (0.15.0)
@@ -72,6 +79,7 @@ GEM
     jquery-rails (3.1.1)
       railties (>= 3.0, < 5.0)
       thor (>= 0.14, < 2.0)
+    json (1.8.1)
     json (1.8.1-java)
     mail (2.5.4)
       mime-types (~> 1.16)
@@ -79,6 +87,7 @@ GEM
     mime-types (1.25.1)
     minitest (5.4.0)
     multi_json (1.10.1)
+    orm_adapter (0.5.0)
     polyglot (0.3.5)
     rack (1.5.2)
     rack-test (0.6.2)
@@ -123,6 +132,7 @@ GEM
       therubyrhino_jar (>= 1.7.3)
     therubyrhino_jar (1.7.4)
     thor (0.19.1)
+    thread_safe (0.3.4)
     thread_safe (0.3.4-java)
     tilt (1.4.1)
     treetop (1.4.15)
@@ -133,6 +143,8 @@ GEM
     uglifier (2.5.3)
       execjs (>= 0.3.0)
       json (>= 1.8.0)
+    warden (1.2.3)
+      rack (>= 1.0)
 
 PLATFORMS
   java
@@ -141,6 +153,7 @@ DEPENDENCIES
   active_model_serializers
   activerecord-jdbcmysql-adapter
   coffee-rails (~> 4.0.0)
+  devise
   ember-data-source (= 1.0.0.beta.7)
   ember-rails
   ember-source (= 1.4.0)

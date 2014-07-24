@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
 
+  devise_for :users, :controllers => { :sessions => "json_sessions" }
   root :to => 'assets#index'
 
   get 'assets/index'

@@ -1,6 +1,15 @@
 <h2>Weights</h2>
 <ul>
     {{#each}}
+     <li>
         {{name}} is {{weight}} on {{created_at}}
+     </li>
     {{/each}}
+    <br />
+    <br />
+    {{#link-to 'weights.new'}}New Weight{{/link-to}}
+
+    <div class="col-sm-9">
+        {{outlet}}
+    </div>
 </ul>

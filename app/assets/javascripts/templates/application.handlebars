@@ -7,6 +7,13 @@
             {{#link-to 'index' tagName='li'}}Home{{/link-to}}
             {{#link-to 'about' tagName='li'}}About{{/link-to}}
             {{#link-to 'weights' tagName='li'}}Weights List{{/link-to}}
+            {{#if signedIn}}
+                {{#link-to 'sign_out' tagName='li'}}Sign Out{{/link-to}}
+
+            {{else}}
+                {{#link-to 'sign_in' tagName='li'}}Sign In{{/link-to}}
+            {{/if}}
+
         </ul>
     </div>
 </div>

@@ -1,15 +1,20 @@
 class WeightsController < ApplicationController
   before_action :set_weight, only: [:show, :edit, :update, :destroy]
 
+  skip_before_filter :verify_authenticity_token, only: [:index]
+
   # GET /weights
   # GET /weights.json
   def index
     @weights = Weight.all
 
-    respond_to do |format|
-      format.html { render html: @weights }
-      format.json { render json: @weights }
-    end
+    # respond_to do |format|
+    #   format.html { render html: @weights }
+    #   format.json { render json: @weights }
+    # end
+
+    render json: @weights
+
   end
 
   # GET /weights/1
@@ -31,15 +36,22 @@ class WeightsController < ApplicationController
   def create
     @weight = Weight.new(weight_params)
 
-    respond_to do |format|
-      if @weight.save
-        format.html { redirect_to @weight, notice: 'Weight was successfully created.' }
-        format.json { render :show, status: :created, location: @weight }
-      else
-        format.html { render :new }
-        format.json { render json: @weight.errors, status: :unprocessable_entity }
-      end
+    if @weight.save
+      render json: @weight, status: 201
+    else
+      render json: @weight.errors, status: :unprocessable_entity
     end
+
+    # respond_to do |format|
+    #   if @weight.save
+    #     format.html { redirect_to @weight, notice: 'Weight was successfully created.' }
+    #     format.json { render :show, status: :created, location: @weight }
+    #   else
+    #     format.html { render :new }
+    #     format.json { render json: @weight.errors, status: :unprocessable_entity }
+    #   end
+    # end
+
   end
 
   # PATCH/PUT /weights/1

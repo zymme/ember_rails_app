@@ -31,6 +31,8 @@ gem 'ember-data-source', '1.0.0.beta.7'
 
 gem 'active_model_serializers'
 
+gem 'devise'
+
 # Use unicorn as the app server
 # gem 'unicorn'
 

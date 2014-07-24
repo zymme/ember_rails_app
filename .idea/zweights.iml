@@ -139,11 +139,13 @@
     <orderEntry type="library" scope="PROVIDED" name="activesupport (v4.1.4, jruby-1.7.12-p392) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="arel (v5.0.1.20140414130214, jruby-1.7.12-p392) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="barber (v0.4.2, jruby-1.7.12-p392) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bcrypt (v3.1.7, jruby-1.7.12-p392) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="builder (v3.2.2, jruby-1.7.12-p392) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bundler (v1.6.3, jruby-1.7.12-p392) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coffee-rails (v4.0.1, jruby-1.7.12-p392) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coffee-script (v2.3.0, jruby-1.7.12-p392) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coffee-script-source (v1.7.1, jruby-1.7.12-p392) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="devise (v3.2.4, jruby-1.7.12-p392) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="ember-data-source (v1.0.0.beta.7, jruby-1.7.12-p392) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="ember-rails (v0.15.0, jruby-1.7.12-p392) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="ember-source (v1.4.0, jruby-1.7.12-p392) [gem]" level="application" />
@@ -160,6 +162,7 @@
     <orderEntry type="library" scope="PROVIDED" name="mime-types (v1.25.1, jruby-1.7.12-p392) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="minitest (v5.4.0, jruby-1.7.12-p392) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="multi_json (v1.10.1, jruby-1.7.12-p392) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="orm_adapter (v0.5.0, jruby-1.7.12-p392) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="polyglot (v0.3.5, jruby-1.7.12-p392) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack (v1.5.2, jruby-1.7.12-p392) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack-test (v0.6.2, jruby-1.7.12-p392) [gem]" level="application" />
@@ -180,6 +183,7 @@
     <orderEntry type="library" scope="PROVIDED" name="treetop (v1.4.15, jruby-1.7.12-p392) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="tzinfo (v1.2.1, jruby-1.7.12-p392) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="uglifier (v2.5.3, jruby-1.7.12-p392) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="warden (v1.2.3, jruby-1.7.12-p392) [gem]" level="application" />
   </component>
   <component name="RModuleSettingsStorage">
     <LOAD_PATH number="0" />
