@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DataSourceManagerImpl" format="xml" hash="3390680970">
+  <component name="DataSourceManagerImpl" format="xml" hash="72781138">
     <data-source source="LOCAL" name="Rails zweights: development" uuid="7bd4bb47-b8fc-43a9-b5d3-4caf2509982e">
       <driver-ref>mysql</driver-ref>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
@@ -21,6 +21,72 @@
       <jdbc-url>jdbc:mysql://127.0.0.1/zweights_production</jdbc-url>
       <user-name>zweights</user-name>
       <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddff0dffddfefdfe3dfeddfe2dffedff9dff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails weightsapp: development" uuid="09b65c1b-60d6-4742-80c5-91559da0f82e">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/weightstracker_dev</jdbc-url>
+      <user-name>weights_dev</user-name>
+      <user-password>dfdddfcfdfc3dfcddfc2dfdedfd9dfdedfd8dfcbdfc9dfc1dfcfdfd8</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails weightsapp: test" uuid="49d790b8-b704-4b4b-9da1-91f7d83664c1">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/weightsapp_test</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails weightsapp: production" uuid="e849b89b-aead-4e7e-bc63-690cfb4e3bbd">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/weightsapp_production</jdbc-url>
+      <user-name>weightsapp</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddffddfefdfe3dfeddfe2dffedff9dfebdffadffadff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails weightstracker: development" uuid="1201fa32-b228-4a09-96f3-6415a608de37">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/weightstracker_dev</jdbc-url>
+      <user-name>weights_dev</user-name>
+      <user-password>dfdddfcfdfc3dfcddfc2dfdedfd9dfdedfd8dfcbdfc9dfc1dfcfdfd8</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails weightstracker: test" uuid="75e67a0d-a96a-4f47-89db-da95b8a864f8">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/weightstracker_test</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails weightstracker: production" uuid="78bdbca9-16e4-48d4-bba0-c7d87ea1865a">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/weightstracker_production</jdbc-url>
+      <user-name>weightstracker</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddffddfefdfe3dfeddfe2dffedff9dffedff8dfebdfe9dfe1dfefdff8dff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails zombietracker1: development" uuid="ff606d44-85b2-4b6c-b6a5-ee75833c6981">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/weightstracker_dev</jdbc-url>
+      <user-name>weights_dev</user-name>
+      <user-password>dfdddfcfdfc3dfcddfc2dfdedfd9dfdedfd8dfcbdfc9dfc1dfcfdfd8</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails zombietracker1: test" uuid="457adf02-9307-4f39-a651-17080cc0f5b8">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/zombietracker1_test</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails zombietracker1: production" uuid="b741c364-31ef-4817-bf74-bded6ed30afc">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/zombietracker1_production</jdbc-url>
+      <user-name>zombietracker1</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddff0dfe5dfe7dfe8dfe3dfefdffedff8dfebdfe9dfe1dfefdff8df9bdff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
       <libraries />
     </data-source>
   </component>
