@@ -13,7 +13,7 @@ App.SignInController = Ember.Controller.extend({
 
            return Ember.$.post('/users/sign_in.json', {
                user: {
-                   email: this.get('email'),
+                   login: this.get('login'),
                    password: this.get('password')
                    }
            }, function(data) {

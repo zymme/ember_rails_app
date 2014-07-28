@@ -39,6 +39,7 @@ GEM
       ember-source
       execjs
       handlebars-source
+    bcrypt (3.1.7)
     bcrypt (3.1.7-java)
     builder (3.2.2)
     coffee-rails (4.0.1)
@@ -54,6 +55,9 @@ GEM
       railties (>= 3.2.6, < 5)
       thread_safe (~> 0.1)
       warden (~> 1.2.3)
+    devise_ldap_authenticatable (0.8.1)
+      devise (>= 3.0)
+      net-ldap (>= 0.3.1, < 0.6.0)
     ember-data-source (1.0.0.beta.7)
       ember-source
     ember-rails (0.15.0)
@@ -87,6 +91,7 @@ GEM
     mime-types (1.25.1)
     minitest (5.4.0)
     multi_json (1.10.1)
+    net-ldap (0.5.1)
     orm_adapter (0.5.0)
     polyglot (0.3.5)
     rack (1.5.2)
@@ -154,6 +159,7 @@ DEPENDENCIES
   activerecord-jdbcmysql-adapter
   coffee-rails (~> 4.0.0)
   devise
+  devise_ldap_authenticatable
   ember-data-source (= 1.0.0.beta.7)
   ember-rails
   ember-source (= 1.4.0)

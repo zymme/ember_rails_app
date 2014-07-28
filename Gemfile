@@ -33,6 +33,9 @@ gem 'active_model_serializers'
 
 gem 'devise'
 
+gem 'devise_ldap_authenticatable'
+
+
 # Use unicorn as the app server
 # gem 'unicorn'
 

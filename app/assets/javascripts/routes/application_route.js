@@ -4,7 +4,7 @@
 
 App.ApplicationRoute = Ember.Route.extend({
     beforeModel: function() {
-        this.transitionTo('weights');
+        this.transitionTo('index');
         var route = this;
         Ember.$.post('/users/sign_in', function() {
 
