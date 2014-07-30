@@ -11,5 +11,7 @@ App.Router.map(function() {
     this.route('sign_in');
     this.route('sign_out');
 
+    this.route('searchusers');
+
 
 });

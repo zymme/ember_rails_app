@@ -26,7 +26,7 @@ development:
   attribute: cn
   base: ou=den,o=cci
   admin_user: cn=zimmerd
-  admin_password: 
+  admin_password: buG0ut44
   ssl: true
   # <<: *AUTHORIZATIONS
 

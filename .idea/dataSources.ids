@@ -9,4 +9,31 @@
   <data-source source="LOCAL" name="Rails zweights: production" uuid="6cfcde43-3e6c-4549-b42d-efb871ca1d2e">
     <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
   </data-source>
+  <data-source source="LOCAL" name="Rails weightsapp: development" uuid="0b00504c-f9e6-4887-b601-31098c61dccc">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails weightsapp: test" uuid="32f7e90e-0f3c-4264-a530-79573a56a1ea">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails weightsapp: production" uuid="98398561-bcd9-4754-8727-448839080ebf">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails weightstracker: development" uuid="a1db572e-71ef-401e-bb90-16b59f30bf7a">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails weightstracker: test" uuid="bf973c35-c50f-47c5-8702-6cad82c43680">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails weightstracker: production" uuid="2508507a-d847-4a4d-a8aa-e85849291e7f">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails zombietracker1: development" uuid="2d53d6e0-8d01-466c-a8aa-65b19f04219e">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails zombietracker1: test" uuid="d03dd829-f884-45b3-a0c8-6c35b2417a73">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails zombietracker1: production" uuid="64ff11bc-8271-4718-be57-dd168bcb8788">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
 </component>
