@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DataSourceManagerImpl" format="xml" hash="4129643195">
+  <component name="DataSourceManagerImpl" format="xml" hash="1953902102">
     <data-source source="LOCAL" name="Rails zweights: development" uuid="7bd4bb47-b8fc-43a9-b5d3-4caf2509982e">
       <driver-ref>mysql</driver-ref>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
@@ -87,6 +87,28 @@
       <jdbc-url>jdbc:mysql://127.0.0.1/zombietracker1_production</jdbc-url>
       <user-name>zombietracker1</user-name>
       <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddff0dfe5dfe7dfe8dfe3dfefdffedff8dfebdfe9dfe1dfefdff8df9bdff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails zombieapp1: development" uuid="653f1b0a-dce0-470e-918e-fc9ed1c45143">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/weightstracker_dev</jdbc-url>
+      <user-name>weights_dev</user-name>
+      <user-password>dfdddfcfdfc3dfcddfc2dfdedfd9dfdedfd8dfcbdfc9dfc1dfcfdfd8</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails zombieapp1: test" uuid="73a5a92a-5148-4bd9-a160-8d33e041978b">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/zombieapp1_test</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails zombieapp1: production" uuid="d92a154b-2d7d-421d-ab2e-7dfdc25dec21">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/zombieapp1_production</jdbc-url>
+      <user-name>zombieapp1</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddff0dfe5dfe7dfe8dfe3dfefdfebdffadffadf9bdff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
       <libraries />
     </data-source>
   </component>

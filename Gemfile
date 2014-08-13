@@ -35,6 +35,9 @@ gem 'devise'
 
 gem 'devise_ldap_authenticatable'
 
+gem 'ember-qunit-rails'
+
+gem 'qunit-rails'
 
 # Use unicorn as the app server
 # gem 'unicorn'

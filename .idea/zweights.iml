@@ -148,6 +148,7 @@
     <orderEntry type="library" scope="PROVIDED" name="devise (v3.2.4, jruby-1.7.12-p392) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="devise_ldap_authenticatable (v0.8.1, jruby-1.7.12-p392) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="ember-data-source (v1.0.0.beta.7, jruby-1.7.12-p392) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ember-qunit-rails (v0.1.8, jruby-1.7.12-p392) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="ember-rails (v0.15.0, jruby-1.7.12-p392) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="ember-source (v1.4.0, jruby-1.7.12-p392) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="erubis (v2.7.0, jruby-1.7.12-p392) [gem]" level="application" />
@@ -166,6 +167,7 @@
     <orderEntry type="library" scope="PROVIDED" name="net-ldap (v0.5.1, jruby-1.7.12-p392) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="orm_adapter (v0.5.0, jruby-1.7.12-p392) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="polyglot (v0.3.5, jruby-1.7.12-p392) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="qunit-rails (v0.0.7, jruby-1.7.12-p392) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack (v1.5.2, jruby-1.7.12-p392) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack-test (v0.6.2, jruby-1.7.12-p392) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rails (v4.1.4, jruby-1.7.12-p392) [gem]" level="application" />

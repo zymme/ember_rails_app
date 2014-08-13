@@ -36,4 +36,13 @@
   <data-source source="LOCAL" name="Rails zombietracker1: production" uuid="64ff11bc-8271-4718-be57-dd168bcb8788">
     <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
   </data-source>
+  <data-source source="LOCAL" name="Rails zombieapp1: development" uuid="653f1b0a-dce0-470e-918e-fc9ed1c45143">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails zombieapp1: test" uuid="73a5a92a-5148-4bd9-a160-8d33e041978b">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails zombieapp1: production" uuid="d92a154b-2d7d-421d-ab2e-7dfdc25dec21">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
 </component>

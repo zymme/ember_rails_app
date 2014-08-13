@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../weightsapp/.idea/weightsapp.iml" filepath="$PROJECT_DIR$/../weightsapp/.idea/weightsapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/../weightstracker/.idea/weightstracker.iml" filepath="$PROJECT_DIR$/../weightstracker/.idea/weightstracker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../zombieapp1/.idea/zombieapp1.iml" filepath="$PROJECT_DIR$/../zombieapp1/.idea/zombieapp1.iml" />
       <module fileurl="file://$PROJECT_DIR$/../zombietracker1/.idea/zombietracker1.iml" filepath="$PROJECT_DIR$/../zombietracker1/.idea/zombietracker1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/zweights.iml" filepath="$PROJECT_DIR$/.idea/zweights.iml" />
     </modules>
