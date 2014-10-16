@@ -141,7 +141,6 @@
     <orderEntry type="library" scope="PROVIDED" name="barber (v0.4.2, jruby-1.7.12-p392) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bcrypt (v3.1.7, jruby-1.7.12-p392) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="builder (v3.2.2, jruby-1.7.12-p392) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.6.3, jruby-1.7.12-p392) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coffee-rails (v4.0.1, jruby-1.7.12-p392) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coffee-script (v2.3.0, jruby-1.7.12-p392) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coffee-script-source (v1.7.1, jruby-1.7.12-p392) [gem]" level="application" />
